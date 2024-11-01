@@ -25,7 +25,7 @@ body {
 }
 
 .header {
-    background-image: url(IMAGENES/PORTADA.jpg);
+    background-image: url(PORTADA.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -144,7 +144,7 @@ display: none;
     display: flex;
 }
 .welcome-1{
-    background-image: url(IMAGENES/EVIDENCIA\ MANTENIMIENTO.jpeg);
+    background-image: url(EVIDENCIA\ MANTENIMIENTO.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -168,7 +168,7 @@ display: none;
     margin: 0px 0;
     width: 2000px;
     height: 600px;
-    background-image: url(IMAGENES/fondo_rojo\ sin\ marca\ de\ agua.jpeg);
+    background-image: url(fondo_rojo\ sin\ marca\ de\ agua.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 150px;
